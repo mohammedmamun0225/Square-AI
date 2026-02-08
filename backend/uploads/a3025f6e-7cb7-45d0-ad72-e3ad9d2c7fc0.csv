@@ -1,0 +1,52 @@
+date,item,sku,units_sold,revenue,expenses,inventory_on_hand,category
+2026-01-02,Cold Brew Bottle,CB-001,18,144,62,120,Beverages
+2026-01-02,Matcha Latte,ML-002,22,154,66,80,Beverages
+2026-01-02,Almond Croissant,AC-010,12,84,34,45,Bakery
+2026-01-03,Cold Brew Bottle,CB-001,16,128,58,110,Beverages
+2026-01-03,Matcha Latte,ML-002,25,175,72,70,Beverages
+2026-01-03,Almond Croissant,AC-010,15,105,42,40,Bakery
+2026-01-04,Cold Brew Bottle,CB-001,20,160,70,95,Beverages
+2026-01-04,Matcha Latte,ML-002,24,168,68,60,Beverages
+2026-01-04,Almond Croissant,AC-010,14,98,40,35,Bakery
+2026-01-05,Cold Brew Bottle,CB-001,14,112,50,90,Beverages
+2026-01-05,Matcha Latte,ML-002,20,140,58,55,Beverages
+2026-01-05,Almond Croissant,AC-010,10,70,30,30,Bakery
+2026-01-06,Cold Brew Bottle,CB-001,19,152,66,82,Beverages
+2026-01-06,Matcha Latte,ML-002,26,182,74,48,Beverages
+2026-01-06,Almond Croissant,AC-010,16,112,44,26,Bakery
+2026-01-07,Cold Brew Bottle,CB-001,21,168,72,75,Beverages
+2026-01-07,Matcha Latte,ML-002,28,196,78,40,Beverages
+2026-01-07,Almond Croissant,AC-010,18,126,48,22,Bakery
+2026-01-08,Cold Brew Bottle,CB-001,12,96,44,68,Beverages
+2026-01-08,Matcha Latte,ML-002,18,126,54,36,Beverages
+2026-01-08,Almond Croissant,AC-010,9,63,26,20,Bakery
+2026-01-09,Cold Brew Bottle,CB-001,10,80,38,62,Beverages
+2026-01-09,Matcha Latte,ML-002,16,112,48,32,Beverages
+2026-01-09,Almond Croissant,AC-010,8,56,24,18,Bakery
+2026-01-10,Cold Brew Bottle,CB-001,9,72,34,58,Beverages
+2026-01-10,Matcha Latte,ML-002,15,105,46,28,Beverages
+2026-01-10,Almond Croissant,AC-010,7,49,22,16,Bakery
+2026-01-11,Cold Brew Bottle,CB-001,11,88,40,54,Beverages
+2026-01-11,Matcha Latte,ML-002,19,133,56,24,Beverages
+2026-01-11,Almond Croissant,AC-010,9,63,26,14,Bakery
+2026-01-12,Cold Brew Bottle,CB-001,13,104,46,50,Beverages
+2026-01-12,Matcha Latte,ML-002,21,147,60,20,Beverages
+2026-01-12,Almond Croissant,AC-010,11,77,30,12,Bakery
+2026-01-13,Cold Brew Bottle,CB-001,22,176,74,45,Beverages
+2026-01-13,Matcha Latte,ML-002,30,210,84,18,Beverages
+2026-01-13,Almond Croissant,AC-010,17,119,48,10,Bakery
+2026-01-14,Cold Brew Bottle,CB-001,24,192,80,40,Beverages
+2026-01-14,Matcha Latte,ML-002,32,224,90,14,Beverages
+2026-01-14,Almond Croissant,AC-010,18,126,50,8,Bakery
+2026-01-15,Cold Brew Bottle,CB-001,23,184,78,35,Beverages
+2026-01-15,Matcha Latte,ML-002,31,217,88,10,Beverages
+2026-01-15,Almond Croissant,AC-010,19,133,54,6,Bakery
+2026-01-16,Cold Brew Bottle,CB-001,8,64,30,30,Beverages
+2026-01-16,Matcha Latte,ML-002,12,84,38,6,Beverages
+2026-01-16,Almond Croissant,AC-010,6,42,18,4,Bakery
+2026-01-17,Cold Brew Bottle,CB-001,7,56,28,28,Beverages
+2026-01-17,Matcha Latte,ML-002,10,70,32,4,Beverages
+2026-01-17,Almond Croissant,AC-010,5,35,16,3,Bakery
+2026-01-18,Cold Brew Bottle,CB-001,6,48,24,26,Beverages
+2026-01-18,Matcha Latte,ML-002,9,63,28,3,Beverages
+2026-01-18,Almond Croissant,AC-010,4,28,12,2,Bakery

@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-sand text-ink font-body antialiased;
+}
+
+.pattern-grain {
+  background-size: 16px 16px;
+}
+
+.glow-border {
+  box-shadow: 0 0 0 1px rgba(27, 27, 27, 0.08), 0 20px 60px rgba(27, 27, 27, 0.08);
+}
+
+.text-balance {
+  text-wrap: balance;
+}
